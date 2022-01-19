@@ -1,0 +1,22 @@
+---
+title: "exercise_1"
+author: "Vishal Lala"
+date: "1/19/2022"
+output: github_document
+---
+
+# Question 1  
+Correct the following code so that it prints, "Predictive Analytics is awesome!" ten times.  
+```{r}
+this_class = 'Predictive Analytics'
+sentence = paste(this class, 'is awesome!')
+rep(x = sentence)
+```
+
+
+# Question 2
+Correct the following code so that it prints the product of 123 with 456 and 123 with 789.
+```{r}
+123*c(456:789)
+```
+
