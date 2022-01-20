@@ -1,0 +1,37 @@
+---
+title: "exercise_2"
+author: "Vishal Lala"
+date: "1/19/2022"
+output: html_document
+---
+
+# Q1  
+Write R code to multiply 67 with 34
+```{r}
+
+```
+
+# Q2
+R has rules for naming objects. The code below flouts these rules. Correct them to make the code work and correctly compute the volume of a swimming pool . 
+```{r}
+length of pool = 25
+width of pool = 10
+depth%of%pool  = 2
+Volume! = length of pool * breadth of pool * depth%of%pool 
+print(Volume!)
+```
+
+# Q3
+Compute the Sine (from Trigonometry) of 60 degrees. 
+```{r}
+
+```
+
+# Q4  
+The foreign student intern who was asked to gather the weight of all employees collected their weight in Kilograms (Kg). Convert the vector of weights in kilograms to a vector of weight in pounds by multiplying each Kg weight by 2.2.
+```{r}
+weight_in_kg = c(50, 60, 75, 82, 74, 68, 66, 71, 54, 75)
+weight_in_lbs = 
+print(weight_in_lbs)
+```
+
